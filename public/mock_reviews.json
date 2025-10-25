@@ -1,0 +1,187 @@
+{
+  "status": "success",
+  "result": [
+    {
+      "id": 1,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Amazing stay! The property was spotless and the host was incredibly responsive. Would definitely recommend to anyone looking for a comfortable stay in London.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 1
+        }
+      ],
+      "submittedAt": "2024-08-21 22:45:14",
+      "guestName": "Shane Finkelstein",
+      "listingName": "2B N1 A - 29 Shoreditch Heights",
+      "channel": "Airbnb",
+      "approved": true
+    },
+    {
+      "id": 2,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Great location and beautiful apartment. The area is perfect for exploring London. Minor issue with heating but the host resolved it very quickly. Overall a wonderful experience!",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 9
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2024-09-15 14:30:00",
+      "guestName": "Emma Watson",
+      "listingName": "1B S2 B - 15 Camden Square",
+      "channel": "Booking.com",
+      "approved": true
+    },
+    {
+      "id": 3,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Good value for money. The area is vibrant and full of great restaurants and cafes. The apartment was clean and well-maintained.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 8
+        },
+        {
+          "category": "communication",
+          "rating": 9
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 8
+        }
+      ],
+      "submittedAt": "2024-10-01 09:15:22",
+      "guestName": "Michael Chen",
+      "listingName": "2B N1 A - 29 Shoreditch Heights",
+      "channel": "Airbnb",
+      "approved": true
+    },
+    {
+      "id": 4,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 10,
+      "publicReview": "Perfect studio! Everything was exactly as described. The host went above and beyond to make our stay comfortable. The location is fantastic and the space is beautifully designed.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2024-10-10 18:20:45",
+      "guestName": "Sarah Johnson",
+      "listingName": "Studio W1 - 42 Notting Hill Gate",
+      "channel": "Airbnb",
+      "approved": false
+    },
+    {
+      "id": 5,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 3,
+      "publicReview": "Lovely apartment in a great neighborhood. Very clean and the host was very helpful with local recommendations. Would stay again!",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 3
+        },
+        {
+          "category": "communication",
+          "rating": 3
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 3
+        }
+      ],
+      "submittedAt": "2024-10-15 11:30:00",
+      "guestName": "James Miller",
+      "listingName": "1B S2 B - 15 Camden Square",
+      "channel": "Booking.com",
+      "approved": true
+    },
+    {
+      "id": 6,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 10,
+      "publicReview": "Exceptional property and service. The apartment exceeded all expectations. Modern, clean, and in a perfect location. The host was outstanding in communication and made check-in seamless.",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 10
+        },
+        {
+          "category": "communication",
+          "rating": 10
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 10
+        }
+      ],
+      "submittedAt": "2024-10-18 16:45:30",
+      "guestName": "David Brown",
+      "listingName": "2B N1 A - 29 Shoreditch Heights",
+      "channel": "Airbnb",
+      "approved": true
+    },
+    {
+      "id": 7,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Good stay overall. The apartment was as described and the location is convenient. A few minor issues with wifi but nothing major. Would recommend!",
+      "reviewCategory": [
+        {
+          "category": "cleanliness",
+          "rating": 8
+        },
+        {
+          "category": "communication",
+          "rating": 8
+        },
+        {
+          "category": "respect_house_rules",
+          "rating": 9
+        }
+      ],
+      "submittedAt": "2024-10-20 10:20:15",
+      "guestName": "Sophie Anderson",
+      "listingName": "Studio W1 - 42 Notting Hill Gate",
+      "channel": "Booking.com",
+      "approved": true
+    }
+  ]
+}
